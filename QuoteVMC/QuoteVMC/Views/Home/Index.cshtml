@@ -1,0 +1,87 @@
+﻿
+<div class="form-horizontal">
+    <h4>Please fill out all fields to get a quote</h4>
+    <hr />
+    @using (Html.BeginForm("Submit", "Home", FormMethod.Post))
+    {
+        <div class="form-group">
+            <h5><b class="control-label col-md-2">First Name</b></h5>
+            <div class="col-md-10">
+                <input name="FirstName" type="text" class="form-control" placeholder="First Name" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <h5><b class="control-label col-md-2">Last Name</b></h5>
+            <div class="col-md-10">
+                <input name="LastName" type="text" class="form-control" placeholder="Last Name" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <h5><b class="control-label col-md-2">Email Address</b></h5>
+            <div class="col-md-10">
+                <input name="EmailAddress" type="text" class="form-control" placeholder="Email Address" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <h5><b class="control-label col-md-2">Date of Birth</b></h5>
+            <div class="col-md-10">
+                <input name="DateOfBirth" type="text" class="form-control" placeholder="yyyy-mm-dd" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <h5><b class="control-label col-md-2">Car Year</b></h5>
+            <div class="col-md-10">
+                <input name="CarYear" type="text" class="form-control" placeholder="Car Year" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <h5><b class="control-label col-md-2">Car Make</b></h5>
+            <div class="col-md-10">
+                <input name="CarMake" type="text" class="form-control" placeholder="Car Make" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <h5><b class="control-label col-md-2">Car Model</b></h5>
+            <div class="col-md-10">
+                <input name="CarModel" type="text" class="form-control" placeholder="Car Model" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <h5><b class="control-label col-md-2">Have you ever had a DUI?</b></h5>
+            <div class="col-md-10">
+                <input name="DUI" type="text" class="form-control" placeholder="Yes or No" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <h5><b class="control-label col-md-2">How many speeding tickets have you got?</b></h5>
+            <div class="col-md-10">
+                <input name="SpeedingTickets" type="text" class="form-control" placeholder="Number of tickets" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <h5><b class="control-label col-md-2">Would you like full coverage or liability?</b></h5>
+            <div class="col-md-10">
+                <input name="InsType" type="text" class="form-control" placeholder="Full Coverage or Liability" />
+            </div>
+        </div>
+       
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Submit" class="btn btn-default" />
+            </div>
+        </div>
+    }
+</div>
+
+
+
+

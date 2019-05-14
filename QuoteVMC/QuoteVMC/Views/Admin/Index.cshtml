@@ -1,0 +1,23 @@
+﻿@using QuoteVMC.ViewModels
+@model List<AdminViewModel>
+<link href="~/Content/styles.css" rel="stylesheet" type="text/css" />
+
+<body>
+@foreach (var customer in Model)
+{
+    <div class="row">
+        <div class="column">
+            @customer.FirstName
+        </div>
+        <div class="column">
+            @customer.LastName
+        </div>
+        <div class="column">
+            @customer.EmailAddress
+        </div>
+        <div class="column">
+            @customer.QuoteAmount
+        </div>
+    </div>
+}
+</body>
