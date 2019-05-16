@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@using (Html.BeginForm("Upload", "Home", FormMethod.Post, new
+{
+    enctype = "multipart/form-data"
+}))
+{   
+    <br/>
+    <h4><label for="avatar">Choose Excel file to upload:</label></h4>
+    <input type = "file" name = "UploadedFile"/> 
+    <br/>
+    <input type = "submit" name = "Submit" value = "Submit" /> 
+    }  
