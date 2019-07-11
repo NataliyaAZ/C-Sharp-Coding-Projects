@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.pdb

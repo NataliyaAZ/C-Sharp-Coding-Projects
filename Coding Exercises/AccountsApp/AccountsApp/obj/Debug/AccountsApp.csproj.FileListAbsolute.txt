@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AccountsApp\AccountsApp\bin\Debug\AccountsApp.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AccountsApp\AccountsApp\bin\Debug\AccountsApp.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AccountsApp\AccountsApp\bin\Debug\AccountsApp.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AccountsApp\AccountsApp\obj\Debug\AccountsApp.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AccountsApp\AccountsApp\obj\Debug\AccountsApp.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AccountsApp\AccountsApp\obj\Debug\AccountsApp.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AccountsApp\AccountsApp\obj\Debug\AccountsApp.pdb

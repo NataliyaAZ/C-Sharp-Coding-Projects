@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Strings\Strings\bin\Debug\Strings.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Strings\Strings\bin\Debug\Strings.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Strings\Strings\bin\Debug\Strings.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.pdb

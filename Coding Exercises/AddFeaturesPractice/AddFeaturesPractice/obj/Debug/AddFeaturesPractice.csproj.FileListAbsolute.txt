@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AddFeaturesPractice\AddFeaturesPractice\bin\Debug\AddFeaturesPractice.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AddFeaturesPractice\AddFeaturesPractice\bin\Debug\AddFeaturesPractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AddFeaturesPractice\AddFeaturesPractice\bin\Debug\AddFeaturesPractice.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AddFeaturesPractice\AddFeaturesPractice\obj\Debug\AddFeaturesPractice.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AddFeaturesPractice\AddFeaturesPractice\obj\Debug\AddFeaturesPractice.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AddFeaturesPractice\AddFeaturesPractice\obj\Debug\AddFeaturesPractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\AddFeaturesPractice\AddFeaturesPractice\obj\Debug\AddFeaturesPractice.pdb

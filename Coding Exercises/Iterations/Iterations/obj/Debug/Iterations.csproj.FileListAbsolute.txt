@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\Iterations.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\Iterations.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\Iterations.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\Iterations.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\Iterations.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\Iterations.pdb

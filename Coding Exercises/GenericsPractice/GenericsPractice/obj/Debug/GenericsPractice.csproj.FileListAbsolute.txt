@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\GenericsPractice\GenericsPractice\bin\Debug\GenericsPractice.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\GenericsPractice\GenericsPractice\bin\Debug\GenericsPractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\GenericsPractice\GenericsPractice\bin\Debug\GenericsPractice.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\GenericsPractice\GenericsPractice\obj\Debug\GenericsPractice.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\GenericsPractice\GenericsPractice\obj\Debug\GenericsPractice.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\GenericsPractice\GenericsPractice\obj\Debug\GenericsPractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\GenericsPractice\GenericsPractice\obj\Debug\GenericsPractice.pdb

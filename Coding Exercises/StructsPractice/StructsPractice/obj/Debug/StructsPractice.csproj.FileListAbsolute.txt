@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\StructsPractice\StructsPractice\bin\Debug\StructsPractice.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\StructsPractice\StructsPractice\bin\Debug\StructsPractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\StructsPractice\StructsPractice\bin\Debug\StructsPractice.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\StructsPractice\StructsPractice\obj\Debug\StructsPractice.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\StructsPractice\StructsPractice\obj\Debug\StructsPractice.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\StructsPractice\StructsPractice\obj\Debug\StructsPractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\StructsPractice\StructsPractice\obj\Debug\StructsPractice.pdb

@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.pdb

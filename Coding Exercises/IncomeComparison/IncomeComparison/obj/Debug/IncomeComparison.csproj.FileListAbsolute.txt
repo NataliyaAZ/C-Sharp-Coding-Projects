@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.pdb

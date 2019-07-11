@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\EnumsPractice\EnumsPractice\obj\Debug\EnumsPractice.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\EnumsPractice\EnumsPractice\obj\Debug\EnumsPractice.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\EnumsPractice\EnumsPractice\bin\Debug\EnumsPractice.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\EnumsPractice\EnumsPractice\bin\Debug\EnumsPractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\EnumsPractice\EnumsPractice\bin\Debug\EnumsPractice.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\EnumsPractice\EnumsPractice\obj\Debug\EnumsPractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\EnumsPractice\EnumsPractice\obj\Debug\EnumsPractice.pdb

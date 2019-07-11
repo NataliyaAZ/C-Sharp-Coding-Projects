@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Math Operations\Math Operations\bin\Debug\Math Operations.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Math Operations\Math Operations\bin\Debug\Math Operations.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Math Operations\Math Operations\bin\Debug\Math Operations.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Math Operations\Math Operations\obj\Debug\Math Operations.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Math Operations\Math Operations\obj\Debug\Math Operations.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Math Operations\Math Operations\obj\Debug\Math Operations.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\Math Operations\Math Operations\obj\Debug\Math Operations.pdb

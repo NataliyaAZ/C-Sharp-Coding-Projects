@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods3\ClassesAndMethods3\bin\Debug\ClassesAndMethods3.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods3\ClassesAndMethods3\bin\Debug\ClassesAndMethods3.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods3\ClassesAndMethods3\bin\Debug\ClassesAndMethods3.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.pdb

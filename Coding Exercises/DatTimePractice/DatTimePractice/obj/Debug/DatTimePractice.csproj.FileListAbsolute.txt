@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\DatTimePractice\DatTimePractice\bin\Debug\DatTimePractice.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\DatTimePractice\DatTimePractice\bin\Debug\DatTimePractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\DatTimePractice\DatTimePractice\bin\Debug\DatTimePractice.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\DatTimePractice\DatTimePractice\obj\Debug\DatTimePractice.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\DatTimePractice\DatTimePractice\obj\Debug\DatTimePractice.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\DatTimePractice\DatTimePractice\obj\Debug\DatTimePractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\DatTimePractice\DatTimePractice\obj\Debug\DatTimePractice.pdb

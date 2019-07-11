@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.pdb

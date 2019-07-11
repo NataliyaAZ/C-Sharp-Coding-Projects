@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods4\ClassesAndMethods4\bin\Debug\ClassesAndMethods4.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods4\ClassesAndMethods4\bin\Debug\ClassesAndMethods4.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods4\ClassesAndMethods4\bin\Debug\ClassesAndMethods4.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods4\ClassesAndMethods4\obj\Debug\ClassesAndMethods4.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods4\ClassesAndMethods4\obj\Debug\ClassesAndMethods4.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods4\ClassesAndMethods4\obj\Debug\ClassesAndMethods4.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\ClassesAndMethods4\ClassesAndMethods4\obj\Debug\ClassesAndMethods4.pdb

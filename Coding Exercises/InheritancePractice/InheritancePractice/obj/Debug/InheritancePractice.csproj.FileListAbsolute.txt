@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.pdb

@@ -1,0 +1,7 @@
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\LambdaExpPractice\LambdaExpPractice\bin\Debug\LambdaExpPractice.exe.config
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\LambdaExpPractice\LambdaExpPractice\bin\Debug\LambdaExpPractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\LambdaExpPractice\LambdaExpPractice\bin\Debug\LambdaExpPractice.pdb
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\LambdaExpPractice\LambdaExpPractice\obj\Debug\LambdaExpPractice.csprojAssemblyReference.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\LambdaExpPractice\LambdaExpPractice\obj\Debug\LambdaExpPractice.csproj.CoreCompileInputs.cache
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\LambdaExpPractice\LambdaExpPractice\obj\Debug\LambdaExpPractice.exe
+D:\Natasha\Coding\GitHub\Basic-C-Sharp-Projects\LambdaExpPractice\LambdaExpPractice\obj\Debug\LambdaExpPractice.pdb
